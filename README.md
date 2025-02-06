@@ -1,5 +1,4 @@
-# Data_Scraping_Project
-# Book Scraping Project
+# Data_Scraping_Project (Books Data)
 
 This project scrapes book data from [Books to Scrape](https://books.toscrape.com/), a dummy website designed for web scraping practice. The script extracts book titles, prices, and star ratings from 50 pages of the website and saves the data into a CSV file.
 
